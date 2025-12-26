@@ -10,6 +10,13 @@ Pick a category, answer with A/B/C/D, and get Santa-style feedback after each qu
 - Gradio UI with a clean quiz flow (Next Challenge + answer box)
 - Uses IBM watsonx.ai to generate fun, “Santa’s Verdict” explanations
 
+- ## Demo Screenshots
+
+![Quiz Question Screen](Screenshot%202025-12-26%20002030.png)
+
+![Santa’s Verdict Screen](Screenshot%202025-12-26%20002038.png)
+
+
 ---
 
 ## 🧰 Tech Stack
